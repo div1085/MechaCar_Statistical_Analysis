@@ -42,7 +42,7 @@ Lot 3 has sample mean of 1496.14 and the p-Value is 0.04, which is lower than th
 
 ## Study Design: MechaCar vs Competition.
 
-To test Mechacar with competition, we can start by defining what factor will be most important for a car to stand out? As, fuel economy and price are two major pruchase factors, we can collect data for similar segment car models across all major manufacturers for past year:
+To test Mechacar with competition, we can start by defining what factor will be most important for a car to stand out? As, fuel economy and price are two major purchase factors, we can collect data for similar segment car models across all major manufacturers for past 5 years:
 
 Price of model: Dependent Variable
 Engine Type: (Electric, Hybrid, Gasoline / Conventional): Dependent Variable
