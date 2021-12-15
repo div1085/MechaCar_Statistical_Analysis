@@ -45,15 +45,16 @@ Lot 3 has sample mean of 1496.14 and the p-Value is 0.04, which is lower than th
 To test Mechacar with competition, we can start by defining what factor will be most important for a car to stand out? As, fuel economy and price are two major purchase factors, we can collect data for similar segment car models across all major manufacturers for past 5 years:
 
 Price of model: Dependent Variable
-Engine Type: (Electric, Hybrid, Gasoline / Conventional): Dependent Variable
+Engine Type: (Electric, Hybrid, Conventional): Dependent Variable
 MPG (Fuel Economy): Independent Variable
+
 Hypothesis: Null and Alternative
 
 After determining which factors are key for the MechaCar's genre:
 
-Null Hypothesis (Ho): MechaCar is similarly priced as competition based on key peformance variable
+Null Hypothesis (Ho): MechaCar is similarly priced as competition based on key variables
 
-Alternative Hypothesis (Ha): MechaCar is NOT similarly priced as competition based on key peformance variable
+Alternative Hypothesis (Ha): MechaCar is NOT similarly priced as competition based on key variables
 
 Statistical Tests
 
